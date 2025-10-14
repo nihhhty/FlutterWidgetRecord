@@ -7,3 +7,6 @@
 功能类  
 Apple支付组件: in_app_purchase  
 网络连接类组件: dio  
+
+动画类
+AnimateList(原生自带)
