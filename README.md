@@ -12,3 +12,6 @@ Apple支付组件: in_app_purchase
 
 动画类
 AnimateList(原生自带)
+
+包上架记录:
+芬兰被卡审
