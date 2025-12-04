@@ -4,7 +4,7 @@
 起始页pageview: page_view_dot_indicator  
 加载网页类组件: in_app_review  
 视频播放器: video_player  
-同一段文字实现不同的样式: RichText配合TextSpan 
+同一段文字实现不同的样式: RichText配合TextSpan  
 自定义tabbar: 使用row加上 AnimatedBuilder跳转 
 
 功能类  
