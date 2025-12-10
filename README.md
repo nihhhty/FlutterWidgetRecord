@@ -5,7 +5,7 @@
 加载网页类组件: in_app_review  
 视频播放器: video_player  
 同一段文字实现不同的样式: RichText配合TextSpan  
-自定义tabbar: 使用row加上 AnimatedBuilder跳转 
+自定义tabbar: 使用row加上 AnimatedBuilder跳转  
 自定义下拉刷新组件: custom_refresh_indicator  
 
 功能类  
